@@ -19,8 +19,3 @@ Even though its focus is on Python 3, most of its scripts
 will also work under Python 2 if processed with the
 [3to2](https://pypi.python.org/pypi/3to2) tool.
 
-To compare the scripts here with the equivalent scripts
-in the Third Edition, visit:
-
-https://github.com/brandon-rhodes/fopnp/tree/m/py3/chapter17#readme
-
