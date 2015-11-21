@@ -25,6 +25,6 @@ for i in G.edges_iter():
     eLa[i]=str(i)
 
 nx.draw_networkx_labels(G,pos)
-nx.draw_networkx_edges_labels(G,pos,edge_labels=eLa,font_size=10)
+nx.draw_networkx_edge_labels(G,pos,edge_labels=eLa,font_size=10)
 plt.axis('off')
 plt.show()
